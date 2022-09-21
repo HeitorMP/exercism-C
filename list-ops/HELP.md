@@ -22,7 +22,7 @@ Try to use standard C99 facilities in preference to writing your own low-level a
 
 ## Submitting your solution
 
-You can submit your solution using the `exercism submit grade_school.c grade_school.h` command.
+You can submit your solution using the `exercism submit list_ops.c list_ops.h` command.
 This command will upload your solution to the Exercism website and print the solution page's URL.
 
 It's possible to submit an incomplete solution which allows you to:

@@ -1,0 +1,23 @@
+{
+  "blurb": "Write a function that returns the earned points in a single toss of a Darts game.",
+  "authors": [
+    "wolf99"
+  ],
+  "contributors": [
+    "ryanplusplus"
+  ],
+  "files": {
+    "solution": [
+      "darts.c",
+      "darts.h"
+    ],
+    "test": [
+      "test_darts.c"
+    ],
+    "example": [
+      ".meta/example.c",
+      ".meta/example.h"
+    ]
+  },
+  "source": "Inspired by an exercise created by a professor Della Paolera in Argentina"
+}

@@ -1,0 +1,32 @@
+{
+  "blurb": "Clean up user-entered phone numbers so that they can be sent SMS messages.",
+  "authors": [
+    "RealBarrettBrown"
+  ],
+  "contributors": [
+    "bcc32",
+    "Gamecock",
+    "gea-migration",
+    "h-3-0",
+    "mikewalker",
+    "patricksjackson",
+    "QLaille",
+    "ryanplusplus",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "phone_number.c",
+      "phone_number.h"
+    ],
+    "test": [
+      "test_phone_number.c"
+    ],
+    "example": [
+      ".meta/example.c",
+      ".meta/example.h"
+    ]
+  },
+  "source": "Event Manager by JumpstartLab",
+  "source_url": "http://tutorials.jumpstartlab.com/projects/eventmanager.html"
+}

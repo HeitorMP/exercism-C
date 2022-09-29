@@ -1,0 +1,28 @@
+{
+  "blurb": "Parse and evaluate simple math word problems returning the answer as an integer.",
+  "authors": [
+    "vlzware"
+  ],
+  "contributors": [
+    "h-3-0",
+    "patricksjackson",
+    "QLaille",
+    "ryanplusplus",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "wordy.c",
+      "wordy.h"
+    ],
+    "test": [
+      "test_wordy.c"
+    ],
+    "example": [
+      ".meta/example.c",
+      ".meta/example.h"
+    ]
+  },
+  "source": "Inspired by one of the generated questions in the Extreme Startup game.",
+  "source_url": "https://github.com/rchatley/extreme_startup"
+}

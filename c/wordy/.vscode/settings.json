@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "wordy.h": "c",
-        "stdbool.h": "c",
-        "stdlib.h": "c"
-    }
-}
